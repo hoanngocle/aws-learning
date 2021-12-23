@@ -1,4 +1,4 @@
-# AWS Certified Solutions Architect Associate Certification SAA-C02
+# AWS Solutions Architect Associate Certification SAA-C02
 - For next 100 days I will take some courses and books to learn about AWS
 - I will update daily progress here share contents and notes.
 
